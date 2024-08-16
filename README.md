@@ -1,10 +1,8 @@
 # alias
 
-## source ~/.bashrc
+`source ~/.bashrc`
 
-# .bashrc
-
-默认加颜色
+## default .bashrc
 
 ```
 # ~/.bashrc: executed by bash(1) for non-login shells.
@@ -122,7 +120,7 @@ if ! shopt -oq posix; then
 fi
 ```
 
-默认.profile
+## default .profile
 
 ```
 # ~/.profile: executed by the command interpreter for login shells.
