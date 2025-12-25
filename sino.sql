@@ -1,7 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 3.2.4
--- http://www.phpmyadmin.net
---
 -- 主机: localhost
 -- 生成日期: 2010 年 06 月 18 日 01:46
 -- 服务器版本: 5.1.46
